@@ -68,7 +68,7 @@ function App() {
                 <Download size={18} /> Android
               </button>
               <a
-                href="https://a4faa95f527bf64073c9919786737332.serveo.net/login?redirect=/files/"
+                href="https://tesseract-login-54o9.onrender.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="ml-4 px-6 py-2 bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"
@@ -223,7 +223,6 @@ function App() {
               image="https://i.postimg.cc/bv7GPgMy/Unnnayan-Image.jpg"
               name="Unnayan Mishra"
               role="AI & Cloud Computing Specialist"
-              link="https://a4faa95f527bf64073c9919786737332.serveo.net/login?redirect=/files/"
             />
             <FounderCard
               image="https://i.postimg.cc/m2sQCLmL/IMG-20230804-WA0163.jpg"

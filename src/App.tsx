@@ -68,7 +68,7 @@ function App() {
                 <Download size={18} /> Android
               </button>
               <a
-                href="https://tesseract-login-page.onrender.com"
+                href="https://tesseract-login-final.onrender.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="ml-4 px-6 py-2 bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"
@@ -109,7 +109,7 @@ function App() {
                   <Download size={18} /> Android
                 </button>
                 <a
-                  href="https://tesseract-login-page.onrender.com"
+                  href="https://tesseract-login-final.onrender.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-6 py-2 bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"

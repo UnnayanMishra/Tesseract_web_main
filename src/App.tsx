@@ -50,7 +50,7 @@ function App() {
 
             <div className="hidden md:flex items-center space-x-4">
               <a 
-                  href="https://github.com/Tesseract-UK/Exe/releases/download/WindowsV1.1/TesseractUK.exe" 
+                  href="https://github.com/Tesseract-UK/Exe/releases/download/WindowsV1.2/Tesseract_UK.exe" 
                   download 
                   target="_blank"
                   rel="noopener noreferrer"
@@ -90,7 +90,7 @@ function App() {
             <div className="md:hidden py-4 border-t border-gray-800">
               <div className="flex flex-col space-y-2">
               <a 
-                  href="https://github.com/Tesseract-UK/Exe/releases/download/WindowsV1.1/TesseractUK.exe" 
+                  href="https://github.com/Tesseract-UK/Exe/releases/download/WindowsV1.2/Tesseract_UK.exe" 
                   download 
                   target="_blank"
                   rel="noopener noreferrer"

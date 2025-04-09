@@ -220,12 +220,12 @@ function App() {
           <h2 className="text-4xl font-bold text-center mb-16">Meet the Founders</h2>
           <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             <FounderCard
-              image="https://i.postimg.cc/bv7GPgMy/Unnnayan-Image.jpg"
+              image="https://i.postimg.cc/x8JYSXYG/Whats-App-Image-2024-06-14-at-13-56-11-1.jpg"
               name="Unnayan Mishra"
               role="AI & Cloud Computing Specialist"
             />
             <FounderCard
-              image="https://i.postimg.cc/m2sQCLmL/IMG-20230804-WA0163.jpg"
+              image="https://i.postimg.cc/wjdzSxrJ/IMG-20230804-WA0163.jpg"
               name="Krish Munat"
               role="Cybersecurity & Distributed Systems Expert"
             />

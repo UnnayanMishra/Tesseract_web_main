@@ -44,9 +44,14 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <Cloud className="w-8 h-8 text-blue-400" />
-              <span className="ml-2 text-xl font-bold">Tesseract</span>
-            </div>
+                <img
+                  src="https://i.postimg.cc/15dbZ4SC/Web-Site-Without-BG.png"
+                  alt="Tesseract Logo"
+                  className="w-12 h-12"
+                />
+                <span className="ml-2 text-xl font-bold">Tesseract</span>
+              </div>
+
 
             <div className="hidden md:flex items-center space-x-4">
               <a 
